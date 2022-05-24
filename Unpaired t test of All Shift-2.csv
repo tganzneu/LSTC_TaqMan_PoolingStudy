@@ -1,0 +1,30 @@
+﻿,
+Table Analyzed,All Shift
+,
+Column C,A-N
+vs.,vs.
+Column D,S-N
+,
+Unpaired t test,
+    P value,.147
+    P value summary,ns
+    Significantly different (P < 0.05)?,No
+    One- or two-tailed P value?,Two-tailed
+    t, df,t=1.471, df=57
+,
+How big is the difference?,
+    Mean of column C,1.366
+    Mean of column D,1.615
+    Difference between means (C - D) ± SEM,-0.2487 ± 0.1691
+    95% confidence interval,-0.5873 to 0.08995
+    R squared (eta squared),0.03655
+,
+F test to compare variances,
+    F, DFn, Dfd,2.645, 28, 29
+    P value,.011
+    P value summary,*
+    Significantly different (P < 0.05)?,Yes
+,
+Data analyzed,
+    Sample size, column C,29
+    Sample size, column D,30
